@@ -1,4 +1,4 @@
-# poker_front
+# boiler_vue_js
 
 ## Project setup
 ```
